@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hola
 
-<!--
-**security-log/security-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interest:
+- 🎣 Fishing
+- 📚 Reading
 
-Here are some ideas to get you started:
+### 📊 Stats:
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=security-log&show_icons=true&theme=gruvbox" alt="Stats - github"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=security-log&langs_count=8&theme=gruvbox" alt="Stats - github"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Links:
+<div align="center">
+<a href="https://leetcode.com/u/security-log/"><img src="https://img.shields.io/badge/LeetCode-security--log-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode - security-log"></a>
+<a href="https://www.linkedin.com/in/sebastian-kremarik/"><img src="https://img.shields.io/badge/LinkedIn-Sebastian_Kremarik-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn - Sebastian Kremarik"></a>
+</div>  
+
+
+
