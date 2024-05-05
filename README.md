@@ -14,5 +14,6 @@
 <a href="https://www.linkedin.com/in/sebastian-kremarik/"><img src="https://img.shields.io/badge/LinkedIn-Sebastian_Kremarik-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn - Sebastian Kremarik"></a>
 </div>  
 
-
-
+<div align="center">
+  <a href="#/"><img src="https://komarev.com/ghpvc/?username=security-log&style=for-the-badge&color=orange" alt="Visit count - security-log"></a>
+</div>  
