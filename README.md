@@ -5,8 +5,8 @@
 - 📚 Reading
 
 ### 📊 Stats:
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=security-log&show_icons=true&theme=gruvbox" alt="Stats - github"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=security-log&langs_count=8&theme=gruvbox" alt="Stats - github"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=seKremarik&show_icons=true&theme=gruvbox" alt="Stats - github"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seKremarik&langs_count=8&theme=gruvbox" alt="Stats - github"></a>
 
 ### 🔗 Links:
 <div align="center">
@@ -15,5 +15,5 @@
 </div>  
 
 <div align="center">
-  <a href="#/"><img src="https://komarev.com/ghpvc/?username=security-log&style=for-the-badge&color=orange" alt="Visit count - security-log"></a>
+  <a href="#/"><img src="https://komarev.com/ghpvc/?username=seKremarik&style=for-the-badge&color=orange" alt="Visit count - security-log"></a>
 </div>  
