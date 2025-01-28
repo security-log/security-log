@@ -11,7 +11,7 @@
 ### 🔗 Links:
 <div align="center">
 <a href="https://leetcode.com/u/security-log/"><img src="https://img.shields.io/badge/LeetCode-security--log-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode - security-log"></a>
-<a href="https://www.linkedin.com/in/sebastian-kremarik/"><img src="https://img.shields.io/badge/LinkedIn-Sebastian_Kremarik-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn - Sebastian Kremarik"></a>
+<a href="https://www.linkedin.com/in/emilio-kremarik/"><img src="https://img.shields.io/badge/LinkedIn-Sebastian_Kremarik-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn - Emilio Kremarik"></a>
 </div>  
 
 <div align="center">
