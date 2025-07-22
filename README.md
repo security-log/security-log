@@ -2,6 +2,15 @@
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmttem42NzR0cm1rNGZtYnJnMW9hYXJjNHdhdWJvdDJ0ZTZwajB6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eZPDf6AL3RpBa6Lhyq/giphy.gif"  />
 </div>
 
+## 🏆 Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/a9fd7f19-3796-4c48-bc04-e268d5c374f0/public_url" target="_blank">
+    <img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" height="80" alt="Certificación Linux Essentials de LPI" height="150"/>
+  </a>
+</div>
+
+
 ###
 
 <div align="center">
