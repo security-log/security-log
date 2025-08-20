@@ -43,3 +43,6 @@
 </div>
 
 ###
+<div align="center">
+[![My OpenSauced Dev Card](./dev-card.png)](https://oss.fyi/security-log)
+</div>
