@@ -1,32 +1,106 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmttem42NzR0cm1rNGZtYnJnMW9hYXJjNHdhd2JvdDJ0ZTZwajB6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eZPDf6AL3RpBa6Lhyq/giphy.gif" alt="Security-log GIF" height="500" />
-</div>
-
-<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI2cmRmZHFhN3U1eDBzZDZqNmRwcjVqdXIzeWg1M2FnYzU5NGp0eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LNuRDOgEski5WV6TGK/giphy.gif" width="50"> Hey there! I'm Emilio Kremarik <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI2cmRmZHFhN3U1eDBzZDZqNmRwcjVqdXIzeWg1M2FnYzU5NGp0eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LNuRDOgEski5WV6TGK/giphy.gif" width="50"></h1>
-<p align="center">
-  A passionate <b>Backend Developer</b> currently diving into the world of <b>Blockchain</b> and <b>Cybersecurity</b> in my free time. Welcome to my GitHub profile!
-  <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVqMjhhc3J3azQ4YWZlNmJscmFraWpsZ2V0Ynk5MW92OTUzejUybiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KGjlaKWM8L2yoLrky6/giphy.gif" width="150">
-</p>
+# EMILIO KREMARIK
+## Junior Backend Developer • Math Enthusiast
 
 ---
 
-<h3 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlobHUxZm52a2VybXAxNzJvNzl6OWltOTd0NGgybDBrdmt2a2JyaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1yTcsA056xvnthdju0/giphy.gif" width="50"> My Skills & Tools <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlobHUxZm52a2VybXAxNzJvNzl6OWltOTd0NGgybDBrdmt2a2JyaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1yTcsA056xvnthdju0/giphy.gif" width="50"></h3>
+### PROFESSIONAL OVERVIEW
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vim,bash,rust,go,js,ts,nodejs,php,laravel" height="40" alt="Tech Stack Icons" />
+**Junior Backend Developer** passionate about building secure, scalable applications. In my first year of professional development, actively expanding my knowledge in **Blockchain Technology** and **Cybersecurity** while strengthening my backend development foundations.
+
+---
+
+### TECHNICAL EXPERTISE
+
+<table>
+<tr>
+<td width="33%">
+
+**SYSTEMS & TOOLS**
+```
+• Linux Administration
+• Bash/Shell Scripting  
+• Vim/Neovim
+• Git Version Control
+```
+
+</td>
+<td width="33%">
+
+**PROGRAMMING LANGUAGES**
+```
+• Rust (Systems Programming)
+• Go (Backend Services)
+• JavaScript/TypeScript
+• PHP (Web Development)
+```
+
+</td>
+<td width="34%">
+
+**FRAMEWORKS & PLATFORMS**
+```
+• Node.js Runtime
+• Laravel Framework
+• RESTful API Design
+• Microservices Architecture
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### DEVELOPMENT METRICS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=security-log&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&border_radius=0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=security-log&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_radius=0&langs_count=6)
+
+---
+
+### INTERESTS & EXPLORATION
+
+Currently exploring **Blockchain Technology** and **Cybersecurity** while diving deep into **Mathematical Concepts** and **Computer Science Theory**. Always curious about the underlying principles that make technology work.
+
+---
+
+### PROFESSIONAL CONNECTIONS
+
+<div align="left">
+
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&color=000000&labelColor=000000)](https://emiliokremarik.engineer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-kremarik/)
+
 </div>
 
 ---
 
-<h3 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3BnN2JkYnNiNnQzMnVyN25sbGQyYmhwbGg1cTc2ZWpiN29xY2txNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SkyZwb2YMG2FIMhsKo/giphy.gif" width="60"> GitHub Stats <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3BnN2JkYnNiNnQzMnVyN25sbGQyYmhwbGg1cTc2ZWpiN29xY2txNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SkyZwb2YMG2FIMhsKo/giphy.gif" width="60"></h3>
+### CORE COMPETENCIES
+
+- **Backend Architecture**: Designing and implementing robust, scalable server-side applications
+- **Security Implementation**: Integrating security best practices across application layers  
+- **Performance Optimization**: Code profiling and system performance enhancement
+- **API Development**: RESTful services and microservices architecture
+- **Database Design**: Efficient data modeling and query optimization
+- **DevOps Integration**: CI/CD pipelines and deployment automation
+
+---
+
+### CONTACT & COLLABORATION
+
+```
+📧 Professional Inquiries: [emilio.kremarik@gmail.com]
+💼 Open for: Backend Development Projects
+🔗 Response Time: 24-48 hours
+```
+
+---
 
 <div align="center">
-  <a href="https://github.com/security-log">
-    <img src="https://github-readme-stats.vercel.app/api?username=security-log&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/security-log">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=security-log&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  </a>
-</div>
+
+**"Building secure, scalable systems with precision and purpose"**
+
+*Last Updated: 2024 • Always Failing • Always Learning*
+
 </div>
