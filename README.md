@@ -1,5 +1,5 @@
 # EMILIO KREMARIK
-## Junior Backend Developer • Blockchain Enthusiast • Security-Minded
+## Junior Backend Developer • Math Enthusiast
 
 ---
 
@@ -65,22 +65,9 @@ Currently exploring **Blockchain Technology** and **Cybersecurity** while diving
 
 ---
 
-### PROFESSIONAL CONNECTIONS
-
-<div align="left">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000&color=ffffff)](https://your-portfolio-url.com)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=000000&color=ffffff)](https://your-blog-url.com)
-
-
-</div>
-
----
-
 ### CORE COMPETENCIES
 
 - **Backend Architecture**: Designing and implementing robust, scalable server-side applications
-- **Security Implementation**: Integrating security best practices across application layers  
 - **Performance Optimization**: Code profiling and system performance enhancement
 - **API Development**: RESTful services and microservices architecture
 - **Database Design**: Efficient data modeling and query optimization
@@ -91,8 +78,8 @@ Currently exploring **Blockchain Technology** and **Cybersecurity** while diving
 ### CONTACT & COLLABORATION
 
 ```
-📧 Professional Inquiries: [your-email@domain.com]
-💼 Open for: Backend Development Projects, Security Consultations
+📧 Professional Inquiries: [https://emiliokremarik.engineer/]
+💼 Open for: Backend Development Projects [https://www.linkedin.com/in/emilio-kremarik/]
 🔗 Response Time: 24-48 hours
 ```
 
@@ -102,6 +89,6 @@ Currently exploring **Blockchain Technology** and **Cybersecurity** while diving
 
 **"Building secure, scalable systems with precision and purpose"**
 
-*Last Updated: 2024 • Always Failing • Always Learning*
+*Last Updated: 2025 • Always Failing • Always Learning*
 
 </div>
