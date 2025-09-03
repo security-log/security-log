@@ -1,5 +1,5 @@
 # EMILIO KREMARIK
-## Junior Backend Developer • Math Enthusiast
+## Junior Backend Developer • Blockchain Enthusiast • Security-Minded
 
 ---
 
@@ -17,10 +17,10 @@
 
 **SYSTEMS & TOOLS**
 ```
-• Linux Administration
-• Bash/Shell Scripting  
-• Vim/Neovim
-• Git Version Control
+• Linux Administration           
+• Bash/Shell Scripting             
+• Vim/Neovim           
+• Git Version Control           
 ```
 
 </td>
@@ -28,7 +28,7 @@
 
 **PROGRAMMING LANGUAGES**
 ```
-• Rust (Systems Programming)
+• Rust (Systems Programming)           
 • Go (Backend Services)
 • JavaScript/TypeScript
 • PHP (Web Development)
@@ -39,7 +39,7 @@
 
 **FRAMEWORKS & PLATFORMS**
 ```
-• Node.js Runtime
+• Node.js Runtime           
 • Laravel Framework
 • RESTful API Design
 • Microservices Architecture
@@ -69,8 +69,9 @@ Currently exploring **Blockchain Technology** and **Cybersecurity** while diving
 
 <div align="left">
 
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&color=000000&labelColor=000000)](https://emiliokremarik.engineer/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-kremarik/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000&color=ffffff)](https://your-portfolio-url.com)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=000000&color=ffffff)](https://your-blog-url.com)
+
 
 </div>
 
@@ -90,8 +91,8 @@ Currently exploring **Blockchain Technology** and **Cybersecurity** while diving
 ### CONTACT & COLLABORATION
 
 ```
-📧 Professional Inquiries: [emilio.kremarik@gmail.com]
-💼 Open for: Backend Development Projects
+📧 Professional Inquiries: [your-email@domain.com]
+💼 Open for: Backend Development Projects, Security Consultations
 🔗 Response Time: 24-48 hours
 ```
 
