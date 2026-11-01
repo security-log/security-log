@@ -1,11 +1,9 @@
 # EMILIO KREMARIK
-## Junior Backend Developer • Math Enthusiast
+## Software Developer • Math Enthusiast
 
 ---
 
-### INTERESTS & EXPLORATION
-
-Currently exploring **Blockchain Technology** and **Cybersecurity** while diving deep into **Mathematical Concepts** and **Computer Science Theory**. Always curious about the underlying principles that make technology work.
+Always curious about the underlying principles that make technology work.
 
 ---
 
